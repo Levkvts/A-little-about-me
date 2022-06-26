@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and technology.
 - 🌱 I’m currently learning Python)
 - 💞️ I’m looking to collaborate on ... soo, I do not know yet, but it is so far
-- 📫 How to reach me, it is simple. I have LinkedIn - https://www.linkedin.com/in/alina-levkovets-29a738221 . Just write me)
+- 📫 How to reach me, it is simple. I have LinkedIn - https://www.linkedin.com/in/alevkovets . Just write me)
 
 <!---
 Levkvts/Levkvts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
